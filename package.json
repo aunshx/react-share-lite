@@ -1,0 +1,27 @@
+{
+  "name": "react-share-lite",
+  "version": "0.0.1",
+  "description": "Share links from your react app to various social media platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aunshx/react-share-lite.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "react",
+    "hook",
+    "easy",
+    "JS",
+    "node"
+  ],
+  "author": "aunsh.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aunshx/react-share-lite/issues"
+  },
+  "homepage": "https://whatsapp-react-messages.herokuapp.com/"
+}
